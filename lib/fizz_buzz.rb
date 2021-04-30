@@ -11,6 +11,6 @@ def fizz_buzz (number)
   when number == 1
     1
   when number == 2
-    2 
+    2
 end
 end
