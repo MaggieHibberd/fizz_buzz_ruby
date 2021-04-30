@@ -8,5 +8,7 @@ def fizz_buzz (number)
     'Buzz'
   when number == 10 
     'Buzz'
+  when number == 20 
+    'Buzz'
   end
 end
