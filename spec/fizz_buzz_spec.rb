@@ -19,4 +19,7 @@ describe '#fizzbuzz' do
   it 'will take the number 20 and return the word "Buzz"' do 
     expect(fizz_buzz(20)).to eq 'Buzz'
   end
+  it 'will take the number 15 and return the word "FizzBuzz"' do 
+    expect(fizz_buzz(15)).to eq 'FizzBuzz'
+  end
 end
