@@ -10,5 +10,7 @@ def fizz_buzz (number)
     'Buzz'
   when number == 1
     1
+  when number == 2
+    2 
 end
 end

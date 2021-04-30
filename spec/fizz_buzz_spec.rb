@@ -28,4 +28,7 @@ describe '#fizzbuzz' do
   it 'will take the number 1 and return the word 1' do 
     expect(fizz_buzz(1)).to eq 1
   end
+  it 'will take the number 1 and return the word 1' do 
+    expect(fizz_buzz(2)).to eq 2
+  end
 end
