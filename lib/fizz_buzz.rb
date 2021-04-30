@@ -8,9 +8,7 @@ def fizz_buzz (number)
     return 'Fizz'
   when (number % 5 == 0)
     'Buzz'
-  when number == 1
-    1
-  when number == 2
-    2
+  else
+    number
 end
 end
