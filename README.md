@@ -24,3 +24,6 @@ input                     ||                     output
 30                        ||                     FuzzBuzz
 1                         ||                     1
 2                         ||                     2
+3                         ||                    ['Fizz']
+5                         ||                    ['Buzz']
+3                         ||                    [1, 2, 'Fizz']
