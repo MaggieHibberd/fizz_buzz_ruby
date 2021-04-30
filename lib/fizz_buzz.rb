@@ -1,13 +1,8 @@
 
 def fizz_buzz (number)
-    case number
-    when  3
-       'Fizz'
-    when 6
-       'Fizz'
-    when 9
-        'Fizz'
 
-    end
-
+  case
+  when  (number % 3 == 0)
+    return 'Fizz'
+  end
 end
