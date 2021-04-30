@@ -22,3 +22,5 @@ input                     ||                     output
 20                        ||                     Buzz
 15                        ||                     FizzBuzz 
 30                        ||                     FuzzBuzz
+1                         ||                     1
+2                         ||                     2
