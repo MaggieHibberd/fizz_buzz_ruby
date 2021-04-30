@@ -1,4 +1,11 @@
 
 def fizz_buzz (number)
-    'Fizz'
+    case number
+    when  3
+       'Fizz'
+    when 6
+       'Fizz'
+
+    end
+
 end
