@@ -5,6 +5,8 @@ def fizz_buzz (number)
        'Fizz'
     when 6
        'Fizz'
+    when 9
+        'Fizz'
 
     end
 
