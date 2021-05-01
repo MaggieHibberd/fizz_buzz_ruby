@@ -10,7 +10,8 @@ If the value is a multiple of 3 & 5: use the value "FizzBuzz" instead
 
 
 Test samples
-______________________________________________________
+-----------------------------------------------------
+`````
 
 input                     ||                     output
 
@@ -27,3 +28,5 @@ input                     ||                     output
 3                         ||                    ['Fizz']
 5                         ||                    ['Buzz']
 3                         ||                    [1, 2, 'Fizz']
+
+`````

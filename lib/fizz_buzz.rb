@@ -1,7 +1,7 @@
 
 def fizz_buzz (number)
   arr = []
-  (0...number). each do |i|
+  (0...number).each do |i|
   i = 1
   while i < number + 1
 
